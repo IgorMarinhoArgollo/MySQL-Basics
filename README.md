@@ -89,13 +89,8 @@
    - Trocar a palavra **"Circus"** no final do nome de uma música por **"Pull Request"**
   
   ## Tecnologias usadas
-  * React
-  * ContextAPI
-  * React Hooks
-  * React Components 
-  * HTML
-  * CSS
-  * Javacript<br><br>
+  * MySQL;
+  * MySQL WorkBench.<br><br>
   
   ## Como usar
   Acesse o site, <b>use "email@email.com" como email e "1234567" como senha</b>. Navegue pelo menu escolhendo Comidas, Bebidas ou Explorar; filtre as receitas, escolha a sua, inicie a sua receita, assista o vídeo e leia as instruções, vá executando a receita junto com o site, finalize a sua receita e salve as suas favoritas;<br><br>
@@ -218,13 +213,8 @@ These were the first projects of the backend module of the Trybe full stack web 
    - Trocar a palavra **"Circus"** no final do nome de uma música por **"Pull Request"**
 
 ## Used Technologies
-  * React
-  * ContextAPI
-  * React Hooks
-  * React Components 
-  * HTML
-  * CSS
-  * Javacript<br><br>
+  * MySQL;
+  * MySQL WorkBench.<br><br>
 
 ## How to use it
   Access the website,  <b>use "email@email.com" as Email and "1234567" as Password</b>. Browse the menu by choosing Food, Drinks or Explore; filter the recipes, choose yours, start your recipe, watch the video and read the instructions, run the recipe along with the website, finish your recipe and save your favorites;<br><br>
